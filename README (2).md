@@ -9,6 +9,7 @@ Introduction
 
 With the rapid rise of web-based technologies, correspondingly, there is an unprecedented rise in numbers as well as complexities of cyber threats that are targeted at web applications. SQL Injection (SQLi), Cross-Site Scripting (XSS), and Distributed Denial of Service (DDoS) attacks draw the most weight and are still by far some of the most commonly executed and damaging forms of attacks facing any web infrastructure. The availability of automated attack tools and further entrenchment of exploit kits in an ever-growing public domain have leveled the playing field for attackers wishing to use past exploits to attack, exfiltrate, and disrupt web operations. In thwarting these threats, the Web application firewall provides an approach that has become an indispensable security mechanism. The operation of a WAF involves filtering, logging, monitoring, and blocking HTTP/S traffic to and from a web application, based on a set of rules or conditions that an administrator or security officer has defined. 
 
+#vidvath
 
 
 
